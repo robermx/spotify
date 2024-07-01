@@ -21,7 +21,7 @@
     "module": "ES2022",
     "useDefineForClassFields": false,
     "paths": {
-      // "@angular/*": ["./node_modules/@angular/*"],
+      "@angular/*": ["./node_modules/@angular/*"],
       "@app/*": ["./src/app/*"],
       "@env/*": ["./src/environments/*"],
       "@core/*": ["./src/app/core/*"],
